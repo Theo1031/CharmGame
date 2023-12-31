@@ -323,6 +323,7 @@
 "Assets/Scripts/EnemySpawn.cs"
 "Assets/Scripts/MainMenu.cs"
 "Assets/Scripts/PlayerHealth.cs"
+"Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/Shotgun.cs"
 "Assets/Scripts/UIManager.cs"
 "Assets/Suriyun/Scripts/Camera Scripts/MouseOrbitImproved.cs"
